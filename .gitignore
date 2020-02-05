@@ -1,0 +1,8 @@
+# Датка слишком большая для гитхаба
+test.csv
+train.csv
+y_train.csv
+cleaned_test.csv
+cleaned_train.csv
+y_test.csv
+/catboost_info
